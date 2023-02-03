@@ -1,2 +1,4 @@
-# suahanth
-# UMBC DATA SCIENCE Capstone project   **Author:** Sushanth Kumar   **Semester:** Spring
+
+# UMBC DATA SCIENCE Capstone project   
+**Author:** Sushanth Kumar   
+**Semester:** Spring
